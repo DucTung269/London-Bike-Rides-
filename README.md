@@ -57,7 +57,7 @@ and subsequently used as the data source for the Tableau dashboard.
 
 # Tableau Dashboard
 
-![London Bike Sharing Dashboard](https://github.com/DucTung269/London-Bike-Rides-/blob/main/images/london_bike_dashboard.png?raw=true)
+![London Bike Sharing Dashboard](https://github.com/DucTung269/London-Bike-Rides-/blob/main/images/london%20dashboard.png?raw=true)
 
 The dashboard provides an interactive overview of London bike-sharing activity.
 
