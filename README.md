@@ -134,7 +134,7 @@ This creates an interactive **overview → selection → detailed analysis** wor
 
 # Bike Demand by Hour
 
-![Bike Demand by Hour](https://github.com/DucTung269/London-Bike-Rides-/blob/main/images/hourly_analysis.png?raw=true)
+![Bike Demand by Hour](https://github.com/DucTung269/London-Bike-Rides-/blob/main/images/bike%20demand%20by%20hour.png?raw=true)
 
 The hourly analysis shows a clear daily usage pattern.
 
@@ -152,7 +152,7 @@ The two major peaks around **08:00** and **17:00-18:00** suggest that London bik
 
 # Bike Demand by Weather
 
-![Bike Rides by Weather](https://github.com/DucTung269/London-Bike-Rides-/blob/main/images/weather_analysis.png?raw=true)
+![Bike Rides by Weather](https://github.com/DucTung269/London-Bike-Rides-/blob/main/images/bike%20demand%20by%20weather.png?raw=true)
 
 The weather analysis shows how the total number of rides is distributed across different weather conditions during the selected period.
 
