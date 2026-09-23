@@ -171,36 +171,29 @@ These values describe the **distribution of total rides across observed weather 
 
 # Key Insights
 
-### 1. Strong Commuting Pattern
+### 1. Bike usage is highest during commuting hours
 
-Bike usage shows clear morning and evening peaks, particularly around **08:00 and 17:00-18:00**.
+The clearest pattern appears during the morning and evening rush hours. Bike usage peaks around **08:00** and again between **17:00 and 18:00**.
 
-This suggests that bike sharing plays an important role in daily commuting.
+This indicates that many people are likely using the bike-sharing service for their daily commute to and from work.
 
-### 2. Bike Demand Changes Strongly Over Time
+### 2. Bike demand changes noticeably throughout the year
 
-The moving-average visualization reveals substantial changes in bike demand throughout the year.
+The moving-average chart shows that bike usage is not constant over time. Demand increases during some periods and falls during others, reflecting seasonal and short-term changes in riding activity.
 
-Using different moving-average periods allows short-term fluctuations to be separated from longer-term trends.
+By changing the moving-average period, users can look at the data from different perspectives and distinguish short-term fluctuations from longer-term trends.
 
-### 3. Weather and Environmental Conditions Matter
+### 3. Weather conditions are closely related to bike usage
 
-Bike usage varies substantially across weather categories and combinations of temperature and wind speed.
+Most rides were recorded during **clear or moderately cloudy weather**, while considerably fewer rides occurred during rain, thunderstorms, or snowfall.
 
-Clear, scattered-cloud, and broken-cloud conditions account for a large proportion of observed rides, while severe weather conditions are associated with much lower total activity.
+Temperature and wind speed also show noticeable differences in bike demand, suggesting that people are generally more likely to use shared bikes when weather conditions are more comfortable.
 
-### 4. Interactive Analysis Provides Deeper Insights
+### 4. The dashboard allows users to explore the data interactively
 
-Instead of displaying only static charts, the dashboard allows users to:
+The dashboard is designed for more than just viewing static charts. Users can select a specific time period, change the moving-average settings, and explore different temperature and wind-speed combinations.
 
-- Select specific periods
-- Change moving-average settings
-- Adjust the analysis window
-- Hover over temperature and wind-speed combinations
-- View detailed weather information
-- View hourly ride distributions
-
-This makes it possible to investigate bike-sharing behavior at different levels of detail within a single dashboard.
+When hovering over parts of the dashboard, additional information about **weather conditions and hourly bike usage** appears automatically. This makes it easier to investigate specific patterns and understand how bike demand changes under different conditions.
 
 ---
 
