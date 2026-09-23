@@ -57,7 +57,7 @@ and subsequently used as the data source for the Tableau dashboard.
 
 # Tableau Dashboard
 
-![London Bike Sharing Dashboard](Images/london_bike_dashboard.png)
+![London Bike Sharing Dashboard](https://github.com/DucTung269/London-Bike-Rides-/blob/main/images/london_bike_dashboard.png?raw=true)
 
 The dashboard provides an interactive overview of London bike-sharing activity.
 
@@ -93,7 +93,7 @@ Changing the period and duration allows the same dashboard to be used for both s
 
 ## Interactive Temperature and Wind-Speed Analysis
 
-![Interactive Dashboard Example](Images/interactive_hover_weather_hour.png)
+![Interactive Dashboard Example](https://github.com/DucTung269/London-Bike-Rides-/blob/main/images/interactive_hover_weather_hour.png?raw=true)
 
 The heatmap analyzes bike rides across combinations of:
 
@@ -117,7 +117,7 @@ This allows the user to move from a general overview to a more detailed analysis
 
 ## Interactive Drill-Down
 
-![Temperature and Wind-Speed Interaction](Images/interactive_hover_temperature_wind.png)
+![Temperature and Wind-Speed Interaction](https://github.com/DucTung269/London-Bike-Rides-/blob/main/images/interactive_hover_temperature_wind.png?raw=true)
 
 For example, after selecting a particular combination of temperature and wind speed, the dashboard automatically updates the additional visualizations.
 
@@ -134,7 +134,7 @@ This creates an interactive **overview → selection → detailed analysis** wor
 
 # Bike Demand by Hour
 
-![Bike Demand by Hour](Images/hourly_analysis.png)
+![Bike Demand by Hour](https://github.com/DucTung269/London-Bike-Rides-/blob/main/images/hourly_analysis.png?raw=true)
 
 The hourly analysis shows a clear daily usage pattern.
 
@@ -152,7 +152,7 @@ The two major peaks around **08:00** and **17:00-18:00** suggest that London bik
 
 # Bike Demand by Weather
 
-![Bike Rides by Weather](Images/weather_analysis.png)
+![Bike Rides by Weather](https://github.com/DucTung269/London-Bike-Rides-/blob/main/images/weather_analysis.png?raw=true)
 
 The weather analysis shows how the total number of rides is distributed across different weather conditions during the selected period.
 
